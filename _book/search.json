@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "aa",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n[1][1] [2]\n\n\n\n\n1. Powers, R. K., Goodspeed, A., Pielke-Lombardo, H., Tan, A.-C., & Costello, J. C. (2018). GSEA-InContext: identifying novel and common patterns in expression experiments. Bioinformatics, 34(13), i555–i564. https://doi.org/10.1093/bioinformatics/bty271\n\n\n2. Subramanian, A., Tamayo, P., Mootha, V. K., Mukherjee, S., Ebert, B. L., Gillette, M. A., Paulovich, A., Pomeroy, S. L., Golub, T. R., Lander, E. S., & Mesirov, J. P. (2005). Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles. Proceedings of the National Academy of Sciences, 102(43), 15545–15550. https://doi.org/10.1073/pnas.0506580102"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee[1] for additional discussion of literate programming.\n\n\n\n\n1. Knuth, D. E. (1984). Literate programming. Comput. J., 27(2), 97–111. https://doi.org/10.1093/comjnl/27.2.97"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "1. Knuth, D. E. (1984). Literate programming. Comput. J.,\n27(2), 97–111. https://doi.org/10.1093/comjnl/27.2.97\n\n\n2. Powers, R. K., Goodspeed, A., Pielke-Lombardo, H., Tan, A.-C., &\nCostello, J. C. (2018). GSEA-InContext: identifying novel and common\npatterns in expression experiments. Bioinformatics,\n34(13), i555–i564. https://doi.org/10.1093/bioinformatics/bty271\n\n\n3. Subramanian, A., Tamayo, P., Mootha, V. K., Mukherjee, S., Ebert, B.\nL., Gillette, M. A., Paulovich, A., Pomeroy, S. L., Golub, T. R.,\nLander, E. S., & Mesirov, J. P. (2005). Gene set enrichment\nanalysis: A knowledge-based approach for interpreting genome-wide\nexpression profiles. Proceedings of the National Academy of\nSciences, 102(43), 15545–15550. https://doi.org/10.1073/pnas.0506580102"
+  }
+]
